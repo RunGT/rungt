@@ -1,6 +1,4 @@
-### Hi there I'm Glenroy-Terence, also know as Terry👋 
-
-Hi there, I'm Glenroy-Terence, also know as Terry👋
+### Hi ther,e I'm Glenroy-Terence, also know as Terry👋 
 
 I’m currently working with Founders and Coders to become a rounded full stack developer. My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
 
