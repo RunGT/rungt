@@ -1,15 +1,17 @@
 ### Hi there I'm Glenroy-Terence, also know as Terry👋 
 
-I’m currently working with Founders and Coders to become a rounded full stack developer. My interest in technology was born form the diesire make a difference by solving problems with people and relationships in mind.
+Hi there, I'm Glenroy-Terence, also know as Terry👋
 
-Before my quest to become a developer I have worked in technical and creative posistions:
-- Technical Officer (Singals) - London Underground
-- Music producer and presenter - BBC / Sony Music / Universal / Virgin
-- Project manager - Gaming start up
-- Business owner - Glenroy's
+I’m currently working with Founders and Coders to become a rounded full stack developer. My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
 
+Before my quest to become a developer I have worked in technical and creative positions:
 
-I'm excited by the future of voice command technology, space exploration and automation. I believe this tech will allow us a humans the time to realign focus 
+Technical Officer (Signals) - London Underground
+Music producer and presenter - BBC / Sony Music / Universal / Virgin
+Project manager - Gaming start up
+Business owner - Glenroy's
+
+I'm excited by the future of voice command technology, space exploration and automation.
 
 
 
