@@ -1,4 +1,4 @@
-### Hi there, I'm Glenroy-Terence, also know as Terry👋 👨🏾‍💻
+### Hi, Terry here 👋 👨🏾‍💻
 
 I’m currently working with Founders and Coders to become a rounded full stack developer. My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
 
@@ -10,6 +10,8 @@ Before my quest to become a developer I have worked in technical and creative po
 - Business owner - Glenroy's
 
 I'm excited by the future of voice command technology, space exploration and automation.
+
+Feel free to contact me in regards to learning how to code, tech, business and all things FAC
 
 
 
