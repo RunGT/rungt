@@ -1,6 +1,6 @@
 ### Hi, Terry here 👋 👨🏾‍💻
 
-I’m currently working with Founders and Coders to become a rounded full stack developer. My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
+I’m currently working with Founders and Coders. My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
 
 Before my quest to become a developer I have worked in technical and creative positions:
 
