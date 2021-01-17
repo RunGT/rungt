@@ -7,7 +7,7 @@ Before my quest to become a developer I have worked in technical and creative po
 - Technical Officer (Signals) - London Underground
 - Music producer and presenter - BBC / Sony Music / Universal / Virgin
 - Project manager - Gaming start up
-- Business owner - Glenroy's
+- Business owner
 
 I'm excited by the future of voice command technology, space exploration and automation.
 
