@@ -1,15 +1,6 @@
 ### Hi, Terry here 👋 👨🏾‍💻
 
-My interest in technology was born form the desire make a difference by solving problems with people and relationships in mind.
-
-Before my quest to become a developer I have worked in technical and creative positions:
-
-- Business owner
-- Project manager - Gaming start up
-- Music producer and presenter - BBC / Sony Music / Universal / Virgin
-- Technical Officer (Signals) - London Underground
-
-I'm excited by the future of voice command technology, space exploration and automation.
+My interest in technology was born from the desire make a difference by solving problems with people and relationships in mind.
 
 Feel free to contact me in regards to learning how to code, tech, business and all things FAC
 
