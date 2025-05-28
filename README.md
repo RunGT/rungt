@@ -2,7 +2,7 @@
 
 My interest in technology was born from the desire make a difference by solving problems with people and relationships in mind.
 
-Feel free to contact me in regards to learning how to code, tech, business and all things FAC
+Feel free to contact me in regards to tech, business and all things FAC
 
 
 
