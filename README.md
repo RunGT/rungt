@@ -17,7 +17,6 @@ Most of that work lives in private repos, but I'm happy to talk through how it w
 ### A Bit About Me
 
 - Learned to code through [Founders & Coders (FAC20)](https://foundersandcoders.com)  
-- Previously at Lickd and the BBC  
 - Interested in meaningful products, clean architecture, and writing code that's built to last  
 - Outside of tech: scuba diving, DJ gear hoarding, and homemade hot sauce experiments
 
