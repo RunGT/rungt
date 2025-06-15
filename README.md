@@ -1,4 +1,4 @@
-# Hey, I’m Terry 👋🏾
+# Hey, I’m Glenroy-Terence 👋🏾
 
 I’m a front-end product engineer who enjoys building clean, thoughtful interfaces that feel good to use. My background spans music tech, public platforms, and creative teams. The common thread has always been making digital products that actually help people.
 
